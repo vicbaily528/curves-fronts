@@ -1,0 +1,12 @@
+server:
+  port: 0
+spring:
+  application:
+    name: curves-front-webapi
+# eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://curves:vicbaily528@127.0.0.1:9000/eureka/
+    healthcheck:
+      enabled: true
