@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/curves-front-webapi/curves-front-webapi.iml" filepath="$PROJECT_DIR$/curves-front-webapi/curves-front-webapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curves-front-webapp/curves-front-webapp.iml" filepath="$PROJECT_DIR$/curves-front-webapp/curves-front-webapp.iml" />
+    </modules>
+  </component>
+</project>
